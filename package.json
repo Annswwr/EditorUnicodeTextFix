@@ -1,0 +1,28 @@
+{
+  "name": "com.annswwr.editor-unicode-text-fix",
+  "version": "1.0.0",
+  "displayName": "Editor Unicode Text Fix",
+  "description": "Makes unsupported / complex languages render correctly inside the Unity Editor.",
+  "unity": "6000.5",
+  "keywords": [
+    "editor",
+    "text",
+    "font",
+    "fallback",
+    "complex-text",
+    "shaping",
+    "harfbuzz",
+    "localization",
+    "khmer",
+    "unicode"
+  ],
+  "author": {
+    "name": "Annswwr",
+    "url": "https://github.com/Annswwr"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Annswwr/EditorUnicodeTextFix.git"
+  }
+}
