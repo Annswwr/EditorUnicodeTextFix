@@ -13,7 +13,7 @@ This relies on Unity's new Advanced Text Generator and targets **Unity 6000.5+**
 
 - Scans installed system fonts and adds the best match as an Editor fallback for any language Unity can't normally render.
 - Automatically fixes shaping for languages with Complex Text Layouts (CTL) like Khmer, Lao, Burmese, etc.
-- Supports third-party plugins and custom inspectors (may require **Compatibility Refresh** to be enabled to fix text shaping).
+- Supports third-party plugins and custom inspectors (may require [Compatibility Refresh](#usage) to be enabled to fix text shaping).
 
 ## Requirements
 
